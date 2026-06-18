@@ -1,0 +1,6 @@
+{
+  "name": "Talma Resinas",
+  "description": "Artesanato Exclusivo em Resina Epóxi: chaveiros, canetas, crachás e brindes personalizados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
